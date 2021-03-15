@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+body {
+   background-image: linear-gradient(to right, rgba(163, 206, 64, 0), rgba(15, 207, 73, 0.849));
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+}
+
+#container {
+	margin: 50px auto;
+	width: 800px;
+	background-color: #fff;
+	color: black;
+	padding: 50px;
+	border-radius: 50px;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+		Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+table {
+	width: 600px;
+	height: 100px;
+	border-collapse: separate;
+	margin: 20px auto;
+}
+
+thead {
+	background-color: black;
+	color: #fff;
+}
+
+th {
+	height: 40px;
+}
+
+tbody {
+	background-color: #f4f4f4;
+}
+
+tbody button {
+	padding: 7px;
+	border-radius: 20px;
+	width: 90px;
+	color: #f4f4f4;
+	border: white solid 1px;
+	margin: 2px;
+	font-weight: bold;
+}
+
+#edit {
+	background-color: #78ded4;
+}
+
+#excluir {
+	background-color: #fd4a5c;
+}
+
+#edit a {
+	text-decoration: none;
+	color: #fff;
+	cursor: pointer;
+}
+
+#excluir a {
+	text-decoration: none;
+	color: #fff;
+	cursor: pointer;
+}
+
+#header button {
+	
+	
+	border-radius: 50px;
+	padding: 7px;
+	width:90px;
+	background-color: black;
+	border: #fff;
+	margin-top: 10px;
+	margin-bottom: 40px;
+	cursor: pointer;
+	font-weight: bold,
+}
+
+
+
+button{
+	outline: none;
+}
+
+#header a {
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+

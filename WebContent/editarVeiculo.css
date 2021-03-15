@@ -1,0 +1,52 @@
+body{
+    background-image: linear-gradient(to right, rgba(163, 206, 64, 0), rgba(15, 207, 73, 0.849));
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+}
+#container {
+	margin: 50px auto;
+	width: 800px;
+	background-color: #fff;
+	color: black;
+	padding: 50px;
+	border-radius: 50px;
+}
+.botao{
+
+    margin-top: 20px;
+}
+
+.botao{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+}
+
+.botao{
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.botao:hover{
+    transition: transform .2s; 
+    transform: scale(1.1);
+    background-color: #fff;
+    display: inline-block;
+    text-decoration: none;
+}
+
+input {
+	border-radius: 20px;
+	width: 200px;
+	padding: 10px;
+	border-color: black;
+    
+}
+input{
+    outline:none;
+}
+h1{
+    margin-bottom: 50px;
+    
+}
