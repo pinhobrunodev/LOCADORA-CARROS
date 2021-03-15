@@ -6,7 +6,10 @@
 🛠 Tecnologias Usadas:
 
 .Java
-.JDBC.
+
+.JDBC
+
 .MYSQL
+
 .HTML/CSS/JS
 
