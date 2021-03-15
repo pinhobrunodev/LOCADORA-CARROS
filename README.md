@@ -12,5 +12,5 @@
 
 .MYSQL
 
-.HTML/CSS/JS
+.HTML/CSS
 
